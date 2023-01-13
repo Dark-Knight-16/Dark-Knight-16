@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dark-Knight-16
-- 👀 I’m a Self taught Web Developer.
+- 👀 I’m a self taught Web Developer.
 - 🌱 I’m currently exploring the world of Web Development.
 
 <!---
